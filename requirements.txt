@@ -1,4 +1,4 @@
-Python 
+Python==3.12.7
 numpy 
 pandas
 pickle
@@ -6,4 +6,5 @@ streamlit
 seaborn
 plotly.express
 matplotlib.pyplot
+
 
