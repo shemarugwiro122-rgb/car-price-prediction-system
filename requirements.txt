@@ -1,0 +1,5 @@
+Python == 3.12.11
+numpy == 2.3.3
+pandas == 2.3.3
+pickleshare == 0.7.5
+streamlit == 1.50.0
